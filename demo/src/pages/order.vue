@@ -1,5 +1,6 @@
 <template>
  <div>
+       <div>{{$route.name}}</div>
      orders
  </div>
 </template>

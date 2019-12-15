@@ -24,15 +24,18 @@ export default new Router({
       children: [
         {
            path:"home",
-           component:home
+           component:home,
+           name:"home页面"
         },
         {
           path:"order",
-          component:order
+          component:order,
+          name:"order页面"
         },
         {
           path:"mine",
-          component:mine
+          component:mine,
+          name:"mine页面"
         },
         {
           path:"",

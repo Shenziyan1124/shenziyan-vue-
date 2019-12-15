@@ -14,7 +14,7 @@ export default {
   },
   mounted() {
     this.detailId = this.$route.query.id;
-    console.log(this.$route.query.id);
+    // console.log(this.$route.query.id);
   }
 };
 </script>

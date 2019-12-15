@@ -1,13 +1,10 @@
 <template>
- <div>
-     mine
- </div>
+  <div>
+    <div>{{$route.name}}</div>mine
+  </div>
 </template>
 <script>
-
-export default {
-}
+export default {};
 </script>
 <style scoped >
-
 </style>

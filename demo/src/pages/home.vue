@@ -1,6 +1,6 @@
 <template>
  <div>
-   
+      <div>{{$route.name}}</div>
      <router-link to="/movie">电影</router-link>
      <span @click="$router.push('/food')">外卖</span>
  </div>
@@ -8,6 +8,7 @@
 <script>
 // import API from "../common/js/API"
 export default {
+
 }
 </script>
 <style scoped >
