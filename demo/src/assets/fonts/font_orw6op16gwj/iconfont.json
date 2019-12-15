@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "526001",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "964300",
+      "name": "返回",
+      "font_class": "gongxiangtubiaozhuangtaileicaozuolei59",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    }
+  ]
+}
