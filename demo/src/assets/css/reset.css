@@ -1,0 +1,25 @@
+body,h1,h2,h3,h4,h5,h6,p,dl,dd{
+    margin: 0;
+    font:12px '微软雅黑';
+    color: #333;
+}
+ol,ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+.clearfix{
+    _zoom:1;
+}
